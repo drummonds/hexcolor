@@ -1,3 +1,3 @@
-module github.com/g4s8/hexcolor
+module github.com/drummonds/hexcolor
 
-go 1.17
+go 1.19
